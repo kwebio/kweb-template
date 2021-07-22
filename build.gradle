@@ -11,6 +11,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.kwebio:core:0.10.0'
+    implementation 'com.github.kwebio:core:0.10.11'
     implementation "ch.qos.logback:logback-classic:1.2.3"
 }
